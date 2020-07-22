@@ -1,0 +1,3 @@
+[submodule "mylibrary"]
+	path = mylibrary
+	url = https://github.com/gnouhpuht/mylibrary.git
